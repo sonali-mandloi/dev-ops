@@ -1,8 +1,10 @@
-#include<stdio.h>
-
-int main()
-{
-    printf("Hello Divya\n");
-    return 0;
-
-}
+[
+    {
+        "id" : 1,
+        "name" : "sonali"
+    },
+    {
+        "id" : 2,
+        "name" : "monali"
+    }
+]
